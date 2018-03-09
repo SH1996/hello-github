@@ -1,5 +1,5 @@
 # hello-github
-demo something
+demo something  
 
 ##标题
 几个#代表几级标题
@@ -24,14 +24,17 @@ demo something
 ##连接
 - 外部连接：[百度](http:www.baidu.com)
 - 内部连接1：连接仓库其他文件：[happy.html](happy.html) 
-- 内部连接2：连接仓库其他地方：[代码块 demo](README.md#标题)
-<!-- 建议使用引用连接 --> 
+- 内部连接2：连接仓库其他地方：[demo2](README.md#标题)
+
 - 引用外部连接：[百度]
-- 引用外部连接：[百度][baudu]
+- 引用外部连接：[百度][baidu]
 - 引用内部连接：[demo1]
-- 引用内部连接：[]
-<!-- 下面文本档中用到的连接 -->
-[百度]：http://www.daidu.com
+
+
+[百度]:http://www.daidu.com
 [baidu]:http://www.daidu.com
 [demo1]:happy.html
-[代码块]:README.md#标题
+ [demodemo](#demodemo)
+
+图片：  
+![baidu-login](http://img.taopic.com/uploads/allimg/120727/201995-120HG1030762.jpg)
