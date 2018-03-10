@@ -11,7 +11,7 @@ demo something
 ##强调
 字体**加粗**  
 字体*斜体*  
-字体横线，加波浪线
+字体横线，～～加波浪线～～
 
 
 ##列表
@@ -37,4 +37,28 @@ demo something
  [demodemo](#demodemo)
 
 图片：  
-![baidu-login](http://img.taopic.com/uploads/allimg/120727/201995-120HG1030762.jpg)
+![baidu-login](http://img.taopic.com/uploads/allimg/120727/201995-120HG1030762.jpg)  
+
+```
+int a = 0;块代码
+```
+
+`int b;`行代码
+
+>demo   
+
+nice
+>>>demo  
+
+___
+水平分割线
+
+<p align="center">文字居中</p>
+
+<!-- ignore -->
+
+| a | b | c |
+|:---: | :------: | :-----: |
+| sasa| cxcxcx|vcvfvf |
+
+:+1:
