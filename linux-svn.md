@@ -96,3 +96,4 @@
 	svnserve -d -r /wangluo/svn/
 10.客户端链接：
 	（其余未完网址：http://v.youku.com/v_show/id_XMTUyMjYwNDc0OA==.html?isPurchase=0&categoryId=12&albumId=0&tvId=0&vId=&sourceCode=&sourceName=&source=embedplay&platform=&albumName=svn%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA-linux%E7%B3%BB%E7%BB%9F(centos)&uploaderId=&isExclusive=false&siteName=%E4%BC%98%E9%85%B7&siteId=youku&itemTitle=svn%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA-linux%E7%B3%BB%E7%BB%9F(centos)&itemPlayerLink=&sourceUrl=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTUyMjYwNDc0OA%3D%3D.html）		
+! [csdn](https://www.cnblogs.com/AndrewXu/p/5939234.html)
